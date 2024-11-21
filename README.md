@@ -1,1 +1,1 @@
-# unniversity
+# University managment
